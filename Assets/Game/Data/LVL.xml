@@ -1,0 +1,37 @@
+<Root>
+    <Chapter Id="0" name="迷之城">
+        <wave Index="0" from="2" npc0="1" num0="8" />
+        <wave Index="1" from="2" npc0="1" num0="8" />
+        <wave Index="2" from="2" npc0="1" num0="8" />
+        <wave Index="3" from="2" npc0="1" num0="8" />
+        <wave Index="4" from="2" npc0="1" num0="8" />
+        <wave Index="5" from="2" npc0="1" num0="8" />
+        <wave Index="6" from="2" npc0="1" num0="8" />
+        <wave Index="7" from="2" npc0="1" num0="8" />
+        <wave Index="8" from="2" npc0="1" num0="8" />
+        <wave Index="9" from="2" npc0="1" num0="8" />
+        <wave Index="10" from="2" npc0="1" num0="8" />
+        <wave Index="11" from="2" npc0="1" num0="8" />
+        <wave Index="12" from="2" npc0="1" num0="8" />
+        <wave Index="13" from="2" npc0="1" num0="8" />
+        <wave Index="0" from="2" npc0="1" num0="8" />
+        <wave Index="0" from="2" npc0="1" num0="8" />
+        <wave Index="0" from="2" npc0="1" num0="8" />
+        <wave Index="0" from="2" npc0="1" num0="8" />
+        <wave Index="0" from="2" npc0="1" num0="8" />
+        <wave Index="0" from="2" npc0="1" num0="8" />
+        <wave Index="0" from="2" npc0="1" num0="8" />
+        <wave Index="0" from="2" npc0="1" num0="8" />
+        <wave Index="0" from="2" npc0="1" num0="8" />
+        <wave Index="0" from="2" npc0="1" num0="8" />
+        <wave Index="0" from="2" npc0="1" num0="8" />
+        <wave Index="0" from="2" npc0="1" num0="8" />
+        <wave Index="0" from="2" npc0="1" num0="8" />
+        <wave Index="0" from="2" npc0="1" num0="8" />
+        <wave Index="0" from="2" npc0="1" num0="8" />
+        <wave Index="0" from="2" npc0="1" num0="8" />
+        <wave Index="0" from="2" npc0="1" num0="8" />
+            
+    <Chapter/>
+       
+</Root>

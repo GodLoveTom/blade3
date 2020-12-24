@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3203146247
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: icon.bytes
+      Dependencies: {}
+    Info_1:
+      Name: sound.bytes
+      Dependencies: {}
+    Info_2:
+      Name: obj.bytes
+      Dependencies: {}
+    Info_3:
+      Name: se.bytes
+      Dependencies: {}

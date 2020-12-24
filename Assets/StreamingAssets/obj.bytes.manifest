@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 3633795099
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3740c954f8ffae88dab777cc969f85fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4dec67319a2ba850e330af892ae7c961
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 097f2200efa81409e879830cd9d641ad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5ba544a201c7c4005915255e1eca4d59, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 00fd4e24f195b404b9fa4a03ec28f673, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 40e48255cb3a148768530237309268d9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ec2ae38185d54487a1316d79f155a72, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22a59efc8c60c479ab42ee6dab3796bc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 951781ff9326c4cbaabefa816a6f4477, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 120
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- "Assets/Game/Art/\u5BA0\u7269/preb/Pet1Bullet.prefab"
+- "Assets/Game/Art/\u5BA0\u7269/preb/Pet0.prefab"
+- "Assets/Game/Art/\u5BA0\u7269/preb/Pet0Bullet.prefab"
+- "Assets/Game/Art/\u5BA0\u7269/preb/Pet0SkillBullet.prefab"
+- "Assets/Game/Art/\u5BA0\u7269/preb/Pet1.prefab"
+Dependencies: []

@@ -1,0 +1,56 @@
+<Root>
+    <Node Id="QuantumMask" name="量子护盾" des="每隔一段时间给自己加一个无敌护盾"  desId="119"  reuse="1"/>
+    <Node Id="GunMaster" name="爆头专家" des="提高枪械的爆头率"  desId="120"  reuse="2"/>
+    <Node Id="FirePowerUp" name="火力强化" des="提高枪械的攻击力" desId="121"  reuse="2"/>
+   
+    <Node Id="HpUpMin" name="血量提升" des="提升少量血量上限和当前血量" desId="-1"  reuse="100"/>
+    <Node Id="BloodSuck" name="吸血" des="普通攻击一定概率附加吸血效果" desId="122"   reuse="1"/>
+   
+    <Node Id="DamageUpSmall" name="攻击提升(小)" des="小幅提升攻击力"  desId="-1" reuse="100"/>
+    <Node Id="DamageUpBig" name="攻击提升(大)" des="大幅提升攻击力"  desId="-1" reuse="100"/>
+
+    <Node Id="Berserk" name="狂战" des="损失2/3生命值上限，提高双倍伤害" desId="123"  reuse="100"/>
+    <Node Id="BackFlash" name="后闪" des="在后跳的时候如果身后有敌人，则触发向后的一闪攻击" desId="118"  reuse="1"/>
+    <!--Node Id="Ice" name="冰霜冲击" des="间隔30秒释放一次冰霜冲击，造成目标冰冻3秒。"  reuse="1"/-->
+    <Node Id="LifeSpring" name="生命之泉" des="每隔30秒，持续恢复一定生命值" desId="124"  reuse="1"/>
+    <Node Id="HealLight" name="治愈之光" des="每隔30秒，立即恢复一定生命值" desId="125"  reuse="1"/>
+
+   <Node Id="LightChain" name="闪电链" des="普攻中概率射出闪电链造成大范围伤害"  desId="126" reuse="1"/>
+
+    <Node Id="LightBall" name="闪电球" des="每30秒召唤一只闪电球辅助战斗" desId="127"  reuse="1"/>
+
+    <Node Id="Thunder" name="超电击" des="每隔20秒召唤多段电击落下攻击敌人" desId="128"  reuse="1"/>
+        <Node Id="CoinMore" name="贪婪猎手" des="额外增加金币掉落量" desId="129"  reuse="1"/> 
+    <Node Id="Poison" name="毒性攻击" des="攻击能造成目标中毒" desId="130"  reuse="1"/>
+
+    <Node Id="XianJing" name="磁暴地雷" des="每隔30秒扔出3个磁暴陷阱，对敌人造成麻痹和持续伤害" desId="131"  reuse="1"/>
+    <Node Id="GroundArrow" name="电弩" des="每隔30秒召唤一个能自动扫射敌人的电弩" desId="136"  reuse="1"/>
+
+    <Node Id="DamageMore" name="伤害提升" des="提升攻击力" desId="132"  reuse="1"/> 
+    <Node Id="DeathFinger" name="致命一击" des="一定概率造成敌人即死"  desId="133" reuse="1"/>
+    <Node Id="ElectricityArround" name="环绕电磁" des="召唤三个电磁球环绕自身并对碰到的敌人造成麻痹效果" desId="134"  reuse="1"/>
+      
+    <Node Id="CriticalAtk" name="暴击" des="增加20%的暴击率" desId="135"  reuse="1"/> 
+    <Node Id="ForceAwaken" name="复活细胞" des="生命值为0的瞬间无敌3秒并且回血50%" desId="137"  reuse="1"/>
+
+     <Node Id="DSWordGirl_Flush" name="蓄力一闪" des="按住攻击键蓄力后向前方突刺攻击" desId="117"  reuse="1"/>
+    <!--Node Id="DSWordGirl_FlushSecond" name="连闪" des="当一闪发动之后，会有50%概率触发另外2次连闪。【双刀专属】"  reuse="1"/-->
+<Node Id="DSWordGirl_FlashKill" name="浮空一闪" des="对浮空的敌人有概率释放一闪攻击" desId="143"  reuse="1"/>
+<!--Node Id="DSWordGirl_FlashKillSecond" name="浮空连斩" des="在浮空瞬斩之后，有50%概率触发连斩其他两个浮空目标。【双刀专属】"  reuse="1"/ -->
+<!-- Node Id="DSWordGirl_DownKill" name="落斩" des="浮空瞬斩之后，以旋风姿态向下旋转冲击地面落地，对沿途空中和地面目标造成多段高频伤害。【双刀专属】"  reuse="1"/ -->
+
+     <Node Id="BigSword_KillAll" name="漫天" des="蓄力技能，按住方向键一段时间松开手释放，短暂蓄力挥刀，释放，
+             直接对全屏范围内超大特效，造成瞬间全屏幕巨大伤害并且破除敌人的防御类技能。【大剑专属】" desId="-1"  reuse="1"/>
+      <Node Id="BigSword_BigLun" name="大车轮" des="间隔20秒释放一次，向前面滚动形成车轮一样旋转特效，持续3秒。对沿途敌人造成击飞伤害。可以破坏敌人护罩。【大剑专属】"  desId="-1" reuse="1"/>
+       <!--Node Id="BigSword_SwordRain" name="剑雨" des="间隔20秒释放一次，召唤12个剑影倾斜着落下匝地，攻击自己周围最近的目标，和陨石落下类似，造成范围伤害。
+               如果目标死亡，剩余的剑影，会寻找下个目标。【大剑专属】"  reuse="1"/-->
+        <!--Node Id="DSWordGirl_FlushSecond" name="剑气斩" des="间隔20秒打出一个竖着的超大剑气，剑气贯穿直线全部目标并且造成击飞伤害。可以破坏敌人的护罩。【大剑专属】"  reuse="1"/-->
+      
+       <Node Id="BigLun_HalfKill" name="蓄力截斩" des="按住攻击键蓄力，松开手后前方射出盾刃" desId="138"  reuse="1"/>
+      <!--Node Id="BigLun_Lighting" name="聚能光线" des="每隔20秒释放一次，聚能后向前方射出一个巨大持续的光柱造成前方直线贯穿伤害。【轮子专属】"  reuse="1"/-->
+       <Node Id="BigLun_Saw" name="旋转齿轮" des="召唤出一个持续旋转的巨大盾刃加入战斗"  desId="139" reuse="1"/>
+        <Node Id="BigLun_DoubleWave" name="双向波" des="间隔30秒向两侧射出地波攻击沿途敌人"  desId="140" reuse="1"/>
+      <Node Id="BigLun_Cut" name="切割" des="让普通攻击最后一段后有概率衔接一个切割斩"  desId="142" reuse="1"/>
+      <Node Id="DSWordKill" name="剑气斩" des="让普通攻击最后一段打出剑气贯穿前方的敌人"  desId="141" reuse="1"/>
+     
+</Root>

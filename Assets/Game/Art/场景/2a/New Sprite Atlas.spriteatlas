@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 33
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: a9810eca44e624271ace3332f7d492b5, type: 3}
+    totalSpriteSurfaceArea: 3590408
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c6f5a8710144d45f893645e44f1bd53a, type: 3}
+  - {fileID: 21300000, guid: 2ee333c15d6e64f7eacf6d36806340ed, type: 3}
+  - {fileID: 21300000, guid: 917a5b9506ef84faab0ea5a784472ed0, type: 3}
+  - {fileID: 21300000, guid: f0f084d9ac2bf4a6a973e38fc3022202, type: 3}
+  - {fileID: 21300000, guid: 9a2e6f2e65f13497b8d26bd610f3de81, type: 3}
+  - {fileID: 21300000, guid: 0d86ae3ec1c80477b8421215d5570b14, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - "6\u80CC\u666F 1"
+  - "2\u524D\u666F"
+  - "4\u4E2D\u666F"
+  - "1\u5730\u9762"
+  - "5\u8FDC\u666F"
+  - "3\u70DF\u96FE"
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0

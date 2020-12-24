@@ -9,6 +9,8 @@ public class CMagicData
     public CMagic.eMagic mType;
     public int mNum;
     public float mCoolDownT = 0;
+    //zhe li jiushi yige zhu shi 
+
 
     public void ResetNum(int Times=1)
     {

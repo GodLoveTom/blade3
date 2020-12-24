@@ -1,4 +1,7 @@
-﻿using System.Collections;
+﻿/// <summary>
+/// 战斗失败界面
+/// </summary>
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
